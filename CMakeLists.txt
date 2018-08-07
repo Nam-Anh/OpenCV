@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( SlidingWindow )
+set(CMAKE_CXX_STANDARD 11)
+find_package( OpenCV REQUIRED )
+add_executable( SlidingWindow main.cpp )
+target_link_libraries( SlidingWindow ${OpenCV_LIBS} )
