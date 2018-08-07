@@ -1,3 +1,0 @@
-/home/namanh/Applications/netbeans/Netbeans/SlidingWindow/CMakeFiles/edit_cache.dir
-/home/namanh/Applications/netbeans/Netbeans/SlidingWindow/CMakeFiles/rebuild_cache.dir
-/home/namanh/Applications/netbeans/Netbeans/SlidingWindow/CMakeFiles/SlidingWindow.dir
